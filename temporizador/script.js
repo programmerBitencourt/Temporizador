@@ -18,5 +18,5 @@ function pause() {
 
 function restart() {
     sec = 0;
-    document.getElementById('watch').innerText = '00';
+    watch.innerText = '00';
 }
