@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+
+h2.watch{
+    font-size: 50px;
+    font: bold;
+
+}
+
+button{
+    border: none;
+    height: 2.5em;
+    width: 7em;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button.start-btn{
+    background-color: green;
+}
+
+button.pause-btn{
+    background-color: gray;
+}
+
+button.restart-btn{
+    background-color: red;
+}
